@@ -1,0 +1,20 @@
+body{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:blue;
+}
+#itemlist{
+    list-style-type: none;
+    padding: 0;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    border: 1px solid brown;
+    margin: 5px;
+}
+button{
+    color: blue;
+}
